@@ -153,6 +153,6 @@ Emoji's are fun! :joy:
 
 ## Callouts
 
-> :bulb: **Tip:** this aint a tip; tho this file is!- [Headings]
+> :bulb: **Tip:** this aint a tip; tho this file is!
 
 ###### [!Back to the top](#Table-of-contents)
